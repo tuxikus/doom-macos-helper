@@ -1,1 +1,7 @@
 * Doom MacOS helper functions
+** Installation
+#+begin_src shell
+mkdir -p ~/.doom.d/modules/os
+cd ~/.doom.d/modules/os
+git clone https://github.com/tuxikus/doom-macos-helper.git macos-helper
+#+end_src
